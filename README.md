@@ -13,7 +13,7 @@
 <br><br>
 
 - 🔭 I’m currently developing chatbots using Next.js 14 as part of the tech stack.
-- 🌱 Currently, I'm strengthening and specializing my knowledge in Next.js 14, TypeScript, and TensorFlow.
+- 🌱 I'm strengthening and specializing my knowledge in Next.js 14, TypeScript, and TensorFlow.
 - 👩🏼‍🤝‍👨🏻 I'm looking to collaborate on a startup or a project involving React, Next.js, or something related to AI.
 - 🤔 I'm looking to help any fellow programmer who is starting to take their first steps.
 - 💬 Ask something about creating something from scratch.
